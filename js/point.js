@@ -1,0 +1,22 @@
+var reg ={
+    "type": "FeatureCollection",
+    "name": "point",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+    "features": [
+    { "type": "Feature", "properties": { "gid": 1, "__gid": 1.0, "superfice_": 547094349.0, "nomreg": "Dakar", "perimeter": 157812.29581499999, "pop2020": 3835011.0, "poids demo": 23.0, "pop2023": 3896563.0 },"geometry": { "type": "Point", "coordinates": [ -17.265238575073734, 14.754487348240144 ] } },
+    { "type": "Feature", "properties": { "gid": 2, "__gid": 2.0, "superfice_": 4824093066.0, "nomreg": "Diourbel", "perimeter": 390356.69302100001, "pop2020": 1859503.0, "poids demo": 11.1, "pop2023": 2080811.0 }, "geometry": { "type": "Point", "coordinates": [ -16.12021165707041, 14.782476732213695 ] } },
+    { "type": "Feature", "properties": { "gid": 3, "__gid": 3.0, "superfice_": 6848880239.0, "nomreg": "Fatick", "perimeter": 591834.49145399989, "pop2020": 900800.0, "poids demo": 5.4, "pop2023": 908857.99999999988 }, "geometry": { "type": "Point", "coordinates": [ -16.348425752427552, 14.153231596288819 ] } },
+    { "type": "Feature", "properties": { "gid": 4, "__gid": 4.0, "superfice_": 5356827489.0, "nomreg": "Kaolack", "perimeter": 448631.87538400001, "pop2020": 1191577.0, "poids demo": 7.1, "pop2023": 1338671.0 }, "geometry": { "type": "Point", "coordinates": [ -15.93396597212876, 13.971598666672511 ] } },
+    { "type": "Feature", "properties": { "gid": 5, "__gid": 5.0, "superfice_": 16910675617.0, "nomreg": "Kédougou", "perimeter": 848119.22791400005, "pop2020": 190509.0, "poids demo": 1.1, "pop2023": 245288.0 }, "geometry": { "type": "Point", "coordinates": [ -12.192791432436424, 12.843610630848346 ] } },
+    { "type": "Feature", "properties": { "gid": 6, "__gid": 6.0, "superfice_": 13771290175.0, "nomreg": "Kolda", "perimeter": 738624.74867700005, "pop2020": 822003.0, "poids demo": 4.9, "pop2023": 916513.0 }, "geometry": { "type": "Point", "coordinates": [ -14.415563982663189, 13.029475661050697 ] } },
+    { "type": "Feature", "properties": { "gid": 7, "__gid": 7.0, "superfice_": 24888810693.0, "nomreg": "Louga", "perimeter": 873920.04787400004, "pop2020": 1061612.0, "poids demo": 6.4, "pop2023": 1127119.0 }, "geometry": { "type": "Point", "coordinates": [ -15.534829238493574, 15.429998493736813 ] } },
+    { "type": "Feature", "properties": { "gid": 8, "__gid": 8.0, "superfice_": 29444545490.0, "nomreg": "Matam", "perimeter": 933550.02570200001, "pop2020": 732863.0, "poids demo": 4.4, "pop2023": 833657.0 }, "geometry": { "type": "Point", "coordinates": [ -13.74599173149063, 15.147679791039355 ] } },
+    { "type": "Feature", "properties": { "gid": 9, "__gid": 9.0, "superfice_": 19240821421.0, "nomreg": "Saint-Louis", "perimeter": 958529.43616599997, "pop2020": 1091735.0, "poids demo": 6.5, "pop2023": 1204863.0 }, "geometry": { "type": "Point", "coordinates": [ -15.038851698916082, 16.206836448990096 ] } },
+    { "type": "Feature", "properties": { "gid": 10, "__gid": 10.0, "superfice_": 7341162864.0, "nomreg": "Sedhiou", "perimeter": 378223.70456400001, "pop2020": 572101.0, "poids demo": 3.4, "pop2023": 590784.0 }, "geometry": { "type": "Point", "coordinates": [ -15.585662303334813, 12.89317665451139 ] } },
+    { "type": "Feature", "properties": { "gid": 11, "__gid": 11.0, "superfice_": 42563662880.999992, "nomreg": "Tambacounda", "perimeter": 1411528.00969, "pop2020": 872155.0, "poids demo": 5.2, "pop2023": 988193.0 }, "geometry": { "type": "Point", "coordinates": [ -13.217113525795062, 13.886027230979938 ] } },
+    { "type": "Feature", "properties": { "gid": 12, "__gid": 12.0, "superfice_": 6669931312.000001, "nomreg": "Thiès", "perimeter": 537815.65108700003, "pop2020": 2162833.0, "poids demo": 12.9, "pop2023": 2467523.0 }, "geometry": { "type": "Point", "coordinates": [ -16.75451924946935, 14.831250753442678 ] } },
+    { "type": "Feature", "properties": { "gid": 13, "__gid": 13.0, "superfice_": 7351731759.0, "nomreg": "Ziguinchor", "perimeter": 402088.95009699999, "pop2020": 683955.0, "poids demo": 4.1, "pop2023": 612343.0 }, "geometry": { "type": "Point", "coordinates": [ -16.373717205569555, 12.779060646413599 ] } },
+    { "type": "Feature", "properties": { "gid": 14, "__gid": 14.0, "superfice_": 11263213012.0, "nomreg": "Kaffrine", "perimeter": 469107.032175, "pop2020": 728951.0, "poids demo": 4.4, "pop2023": 821287.0 }, "geometry": { "type": "Point", "coordinates": [ -15.187751499115802, 14.21523670051868 ] } }
+    ]
+    }
+    
